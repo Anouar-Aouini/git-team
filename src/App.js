@@ -5,7 +5,6 @@ import Anouar from "./anouar"
 function App() {
   return (
     <div className="App">
-      <Ala/>
       <Anouar/>
     </div>
   );
